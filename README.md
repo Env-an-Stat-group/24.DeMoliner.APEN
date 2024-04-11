@@ -1,2 +1,2 @@
-# 23.DeMoliner.WE
-Timeseries wind data for Wind Energy Paper
+# 24.DeMoliner.APEN
+Timeseries wind data for Applied Energy Paper
